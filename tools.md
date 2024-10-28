@@ -1,4 +1,4 @@
-- ** medium**: https://readmedium.com/
+- **medium**: https://readmedium.com/
 - **bloomberg** :https://archive.md/EoBDd
 
 
