@@ -1,12 +1,16 @@
+### 🌟 Knowledge for Free
+- **Medium**: https://readmedium.com/
+- **Bloomberg**: https://archive.md/EoBDd
 
-### for free
-- **medium**: https://readmedium.com/
-- **bloomberg** :https://archive.md/EoBDd
+### 📚 Big Names' Blogs
+- [Dario Amodei's Blog](https://darioamodei.com/machines-of-loving-grace)
+- [Sebastian Raschka, PhD](https://substack.com/)
 
+### 🛠️ English Tools
+- [ToPhonetics](https://tophonetics.com/zh/)
 
-### big names'blogs 
-https://darioamodei.com/machines-of-loving-grace
+### 📄 文档转换
+- [md-to-pdf](https://md-to-pdf.fly.dev/)
 
-
-### english tools
-- https://tophonetics.com/zh/
+### 🔍JOBs
+- [weworkremotely](https://weworkremotely.com/)
